@@ -24,17 +24,24 @@ function Is-GitInstalled {
     return (Get-Command git -ErrorAction SilentlyContinue) -ne $null
 }
 
-# Attempt to uninstall Git using winget
+# Prompt user to uninstall Git if installed
 if (Is-GitInstalled) {
-    Write-Host "Git is installed. Attempting to uninstall Git via winget..."
+    Write-Host "Git is installed."
+    $userResponse = Read-Host "Do you want to uninstall Git? (y/n)"
     
-    if (Get-Command winget -ErrorAction SilentlyContinue) {
-        winget uninstall --id Git.Git -e --source winget
+    if ($userResponse -eq 'y' -or $userResponse -eq 'Y') {
+        if (Get-Command winget -ErrorAction SilentlyContinue) {
+            Write-Host "Attempting to uninstall Git via winget..."
+            winget uninstall --id Git.Git -e --source winget
+        } else {
+            Write-Warning "winget is not available. Please uninstall Git manually."
+        }
     } else {
-        Write-Warning "winget is not available. Please uninstall Git manually if desired."
+        Write-Host "Skipped uninstallation of Git."
     }
 } else {
     Write-Host "Git is not currently installed."
 }
 
 Pause
+
