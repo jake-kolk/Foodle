@@ -2,7 +2,7 @@
 ### Windows:  
   -Download the "installFoodle.ps1" and "uninstallFoodle.ps1" files  
   -To install run the command `powershell -ExecutionPolicy Bypass -File .\installFoodle.ps1` in the directory of installFoodle.ps1
-  -To uninstall run the command `powershell -ExecutionPolicy Bypass -File .\unstallFoodle.ps1` in the directory of installFoodle.ps1
+  -To uninstall run the command `powershell -ExecutionPolicy Bypass -File .\uninstallFoodle.ps1` in the directory of installFoodle.ps1
     
 ### Other platforms:  
   
