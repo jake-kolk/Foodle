@@ -1,14 +1,121 @@
 [
     {
-        "APIKEY": ""
+        "APIKEY": "5dad37baca1244c191fe3bec26420924"
     },
     [
-    ],
-    [
         {
-            "title": "default"
+            "calories": 363.56,
+            "description": "Paneer & Fig Pizzan is a Mediterranean main course. One portion of this dish contains about 16g of protein, 23g of fat, and a total of 363 calories. This recipe serves 4. For $3.23 per serving, this recipe covers 8% of your daily requirements of vitamins and minerals. Only a few people made this recipe, and 1 would say it hit the spot. This recipe from Foodista requires ricotta cheese, pizza dough, ground pepper, and salt. From preparation to the plate, this recipe takes roughly 45 minutes. With a spoonacular score of 30%, this dish is not so super. Try Indian style paneer pizza, Fig and Prosciutto Pizza, and Fig And Prosciutto Pizza for similar recipes.",
+            "imageURL": "https://img.spoonacular.com/recipes/654523-312x231.jpg",
+            "ingredients": [
+                {
+                    "name": "salt",
+                    "quantity": 1,
+                    "unit": "servings"
+                },
+                {
+                    "name": "figs",
+                    "quantity": 2,
+                    "unit": ""
+                },
+                {
+                    "name": "ground pepper",
+                    "quantity": 0.03,
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "paneer",
+                    "quantity": 0.25,
+                    "unit": "cup"
+                },
+                {
+                    "name": "pizza dough",
+                    "quantity": 3,
+                    "unit": "inches"
+                },
+                {
+                    "name": "ricotta cheese",
+                    "quantity": 0.25,
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": 1,
+                    "unit": "servings"
+                }
+            ],
+            "recipeID": 654523,
+            "recipeURL": "https://spoonacular.com/recipes/Paneer-&-Fig-Pizza-654523",
+            "servings": 4,
+            "title": "Paneer & Fig Pizza"
+        },
+        {
+            "calories": 166.54,
+            "description": "Guacamole takes roughly 45 minutes from beginning to end. Watching your figure? This gluten free, dairy free, paleolithic, and lacto ovo vegetarian recipe has 167 calories, 2g of protein, and 15g of fat per serving. This recipe serves 4. For 87 cents per serving, this recipe covers 9% of your daily requirements of vitamins and minerals. 20 people found this recipe to be flavorful and satisfying. A mixture of haas avocados, salt, cilantro, and a handful of other ingredients are all it takes to make this recipe so tasty. It works well as a very affordable hor d'oeuvre. A couple people really liked this Mexican dish. It is brought to you by Foodista. With a spoonacular score of 81%, this dish is amazing. If you like this recipe, you might also like recipes such as guacamole , how to make guacamole | mexican guacamole, Fried Green Plantain with Guacamole and Shrimp (Tostada de Plátano con Camarones y Guacamole), and Fried Green Plantain with Guacamole and Shrimp (Tostada de Plátano con Camarones y Guacamole).",
+            "imageURL": "https://img.spoonacular.com/recipes/645988-312x231.jpg",
+            "ingredients": [
+                {
+                    "name": "haas avocados",
+                    "quantity": 0.5,
+                    "unit": "large"
+                },
+                {
+                    "name": "onion",
+                    "quantity": 0.5,
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "jalapeno pepper",
+                    "quantity": 0.25,
+                    "unit": "tablespoon"
+                },
+                {
+                    "name": "cilantro",
+                    "quantity": 0.06,
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": 0.13,
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": 0.03,
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "lime juice",
+                    "quantity": 0.25,
+                    "unit": "tablespoon"
+                },
+                {
+                    "name": "basil",
+                    "quantity": 0.25,
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "oregano",
+                    "quantity": 0.25,
+                    "unit": "teaspoon"
+                }
+            ],
+            "recipeID": 645988,
+            "recipeURL": "https://spoonacular.com/recipes/Guacamole-645988",
+            "servings": 4,
+            "title": "Guacamole"
         }
     ],
     [
+        {
+            "title": "Default Meal Plan"
+        }
+    ],
+    [
+        {
+            "ingredients": [
+            ],
+            "name": "Default Grocery List"
+        }
     ]
 ]
