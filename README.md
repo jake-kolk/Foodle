@@ -10,4 +10,4 @@
 
  # What is foodle?  
   Foodle is an app for finding, saving, and scheduling recipes. You can even  create grocery lists from recipe ingredients.   
-  Foodle uses the spoonacular API to find the best recipes from across the internet, and deliver them to you ina streamlined way to maximize your meal planning potential! *note, you will need your own spoonacular API key, its free, link [here.[(https://spoonacular.com/food-api/console#Profile)
+  Foodle uses the spoonacular API to find the best recipes from across the internet, and deliver them to you in a streamlined way to maximize your meal planning potential! *note, you will need your own spoonacular API key, its free, link [here.[(https://spoonacular.com/food-api/console#Profile)
